@@ -1,18 +1,7 @@
-/**
- * Java1. Lesson 7. Graphics game.
- *
- * @author Nikolay Kasparov
- * @version dated: 17 Feb, 2018
- *
- * @link 
- */
-
-
 import javax.swing.*;
 import java.awt.*;
 import javax.imageio.*;
 import java.io.*;
-
 
 public class CatGame extends JFrame {
 
